@@ -16,7 +16,7 @@ Data Science and AI Engineering student with a background in Organizational Psyc
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+
 
 ## My Skills Include
 
