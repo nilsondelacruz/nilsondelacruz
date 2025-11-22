@@ -1,7 +1,7 @@
 # Nilson De la Cruz
 Data Scientist • IA Engineer • People Analytics • NLP Specialist
 
-Estudiante de Ciencias de Datos e Ingeniería en IA con formación en Psicología Organizacional. Enfocado en aplicar la Ciencia de Datos en áreas como People Analytics e Inteligencia de Negocios, desarrollando soluciones basadas en IA con un gran interés en el Procesamiento de Lenguaje Natural.
+Estudiante de Ingenieria de Ciencias de Datos e Inteligencia Artificial con formación en Psicología Organizacional. Enfocado en aplicar la Ciencia de Datos en áreas como People Analytics e Inteligencia de Negocios, desarrollando soluciones basadas en IA con un gran interés en el Procesamiento de Lenguaje Natural.
 
 
 ## 🔎 Sobre mí
