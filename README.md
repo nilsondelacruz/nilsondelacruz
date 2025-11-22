@@ -29,8 +29,6 @@ Herramientas y plataformas:
 - Proyecto B — Descripción breve (NLP / clasificación / análisis de sentimientos). Tecnologías: Python, spaCy/Transformers.
 - Proyecto C — Descripción breve (People Analytics / visualizaciones / BI). Tecnologías: SQL, Tableau/Power BI, Python.
 
-(Puedo añadir enlaces y textos específicos si proporcionas las URL o los repositorios.)
-
 ---
 
 ## 📫 Contacto
@@ -46,5 +44,3 @@ Puedes añadir tarjetas de estadísticas públicas de GitHub como:
 - https://github-readme-stats.vercel.app/api?username=nilsondelacruz&amp;show_icons=true&amp;theme=default
 
 ---
-
-Si quieres, puedo actualizar más secciones, añadir enlaces a proyectos concretos o incluir Docker/AWS/GCP y librerías (scikit-learn, PyTorch, LangChain). Dime qué prefieres y lo incluyo.

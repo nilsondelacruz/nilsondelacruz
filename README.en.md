@@ -29,8 +29,6 @@ Tools &amp; platforms:
 - Project B — Short description (NLP / text classification / sentiment analysis). Technologies: Python, spaCy/Transformers.
 - Project C — Short description (People Analytics / visualizations / BI). Technologies: SQL, Tableau/Power BI, Python.
 
-(I can add links and full descriptions if you share the repository URLs.)
-
 ---
 
 ## 📫 Contact
