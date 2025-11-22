@@ -3,7 +3,6 @@ Data Scientist • IA Engineer • People Analytics • NLP Specialist
 
 Estudiante de Ciencias de Datos e Ingeniería en IA con formación en Psicología Organizacional. Enfocado en aplicar la Ciencia de Datos en áreas como People Analytics e Inteligencia de Negocios, desarrollando soluciones basadas en IA con un gran interés en el Procesamiento de Lenguaje Natural.
 
----
 
 ## 🔎 Sobre mí
 - Actualmente profundizando en: SQL, Python, Java y técnicas avanzadas de Machine Learning.
@@ -11,16 +10,15 @@ Estudiante de Ciencias de Datos e Ingeniería en IA con formación en Psicologí
 - Busco colaborar en proyectos open source y oportunidades donde aplicar ciencia de datos a problemas reales.
 - Fuera del trabajo: streamer en Twitch, gamer y lector de divulgación científica.
 
----
 
 ## 🛠️ Tecnologías y herramientas
 Lenguajes y principales tecnologías:
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 Herramientas y plataformas:
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
 
 ## 📫 Contacto
