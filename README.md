@@ -8,7 +8,7 @@ Estudiante de Ciencias de Datos e Ingeniería en IA con formación en Psicologí
 - Actualmente profundizando en: SQL, Python, Java y técnicas avanzadas de Machine Learning.
 - Intereses: People Analytics, NLP, despliegue de modelos y pipelines de datos.
 - Busco colaborar en proyectos open source y oportunidades donde aplicar ciencia de datos a problemas reales.
-- Fuera del trabajo: streamer en Twitch, gamer y lector de divulgación científica.
+- Hobbies: Deporte, lectura, música y crear.
 
 
 ## 🛠️ Tecnologías y herramientas
