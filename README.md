@@ -41,6 +41,6 @@ Herramientas y plataformas:
 
 ## 📈 Estadísticas (opcional)
 Puedes añadir tarjetas de estadísticas públicas de GitHub como:
-- https://github-readme-stats.vercel.app/api?username=nilsondelacruz&amp;show_icons=true&amp;theme=default
+- https://github-readme-stats.vercel.app/api?username=nilsondelacruz&show_icons=true&theme=default
 
 ---

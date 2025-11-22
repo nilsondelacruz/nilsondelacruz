@@ -41,4 +41,4 @@ Tools &amp; platforms:
 
 ## 📈 Statistics (optional)
 You can add public GitHub stats cards like:
-- https://github-readme-stats.vercel.app/api?username=nilsondelacruz&amp;show_icons=true&amp;theme=default
+- https://github-readme-stats.vercel.app/api?username=nilsondelacruz&show_icons=true&theme=default
