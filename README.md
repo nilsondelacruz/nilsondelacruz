@@ -26,7 +26,7 @@
 
 ```yaml
 name        : Nilson De la Cruz
-role        : Data Science & AI Engineering Student @ Cibertec
+role        : Data Science & AI Engineering Student 
 background  : Talent Acquisition + Organizational Psychology
 focus       : People Analytics · Business Intelligence · AI for HR
 building    : Data-driven solutions with SQL, Python, Power BI & Excel
