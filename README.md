@@ -47,7 +47,6 @@ goal        : Start my career in Data & Analytics — making real impact
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)|
 | **Data & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server_2022-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Bizagi](https://img.shields.io/badge/Bizagi-BPMN-0099D6?style=flat-square) |
 
 </div>
 
@@ -62,7 +61,7 @@ goal        : Start my career in Data & Analytics — making real impact
 ```
 Dataset  : IBM HR Analytics (1,470 employees)
 Tools    : Python · Power BI · Excel
-Focus    : Predictive insights + business recommendations
+Focus    : Data insights & business recommendations
 ```
 
 **Key findings:**
@@ -75,19 +74,7 @@ Focus    : Predictive insights + business recommendations
 | **Job Level** | Entry-level roles show the most instability |
 
 **Recommendations delivered:** reduce overtime exposure · review salary bands · targeted retention by department
-
----
-
-### 🗄️ Recruitment & Selection System — SQL Server 2022
-
-> A full relational database for an HR hiring pipeline, built from scratch.
-
-```
-Tools    : SQL Server 2022 · Bizagi (BPMN)
-Status   : In progress — normalization & CREATE TABLE scripts next
-Scope    : 13-table ER model · cardinality definitions · process diagrams
-```
-
+<!--
 ---
 
 ## 📈 GitHub Activity
@@ -100,16 +87,16 @@ Scope    : 13-table ER model · cardinality definitions · process diagrams
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilsondelacruz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2da44e&fire=2da44e&currStreakLabel=2da44e" height="150"/>
 </div>
-
+-->
 ---
 
 ## 🚀 What's Next
 
 ```
-[ ] Finish Recruitment System SQL scripts (Cibertec project)
-[ ] Deploy HR Attrition dashboard online
-[ ] Build portfolio website
-[ ] Land first Data Analyst / People Analytics internship
+[ ] Deploy HR Attrition dashboard online 
+[ ] Build advanced SQL projects  
+[ ] Continue developing data analytics skills
+[ ] Work on real-world business problems
 [ ] Keep learning — ML fundamentals, advanced SQL, DAX
 ```
 
