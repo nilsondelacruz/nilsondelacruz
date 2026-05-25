@@ -14,7 +14,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nilson--de--la--cruz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilson-delacruz/)
-[![Gmail](https://img.shields.io/badge/Gmail-i202516148%40cibertec.edu.pe-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:i202516148@cibertec.edu.pe)
+[![Gmail](https://img.shields.io/badge/Gmail-i202516148%40cibertec.edu.pe-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nilsondelacruz01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-555?style=flat-square&logo=vercel&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/📍-Lima%2C%20Perú-2DA44E?style=flat-square)](#)
 
