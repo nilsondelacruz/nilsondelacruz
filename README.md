@@ -90,18 +90,6 @@ Focus    : Data insights & business recommendations
 -->
 ---
 
-## 🚀 What's Next
-
-```
-[ ] Deploy HR Attrition dashboard online 
-[ ] Build advanced SQL projects  
-[ ] Continue developing data analytics skills
-[ ] Work on real-world business problems
-[ ] Keep learning — ML fundamentals, advanced SQL, DAX
-```
-
----
-
 <div align="center">
 
 **Let's connect and build something data-driven together.**
